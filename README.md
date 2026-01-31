@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/badge/license-MIT-darkred?style=for-the-badge" alt="License">
   </a>
 </p>
 
