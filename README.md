@@ -52,7 +52,7 @@ The system leverages the **Model-View-Controller (MVC)** architectural pattern t
 <h2 align="center">Project Structure</h2>
 
 ```
-Project_LibraryManagementSystem/
+LibraryManagementSystem/
 ├── Database/                                 # SQL Data persistence
 │   └── DBKUTUPHANE.bak                       # Full SQL Server Database backup
 ├── Project Documantation/                    # Scientific documentation
@@ -129,8 +129,8 @@ Project_LibraryManagementSystem/
 
 ### 2. Repository Acquisition & Initialization
 ```bash
-git clone https://github.com/Zer0-Bug/Project_LibraryManagementSystem.git
-cd Project_LibraryManagementSystem
+git clone https://github.com/Zer0-Bug/LibraryManagementSystem.git
+cd LibraryManagementSystem
 ```
 
 ### 3. Database Restoration
