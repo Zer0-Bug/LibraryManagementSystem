@@ -184,15 +184,6 @@ All contributions are reviewed before being merged. Please ensure that your chan
 
 ---
 <br>
-<h2 align="center">References</h2>
-
-1. **Microsoft Docs** - [ASP.NET MVC Overview](https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started).  
-2. **Entity Framework** - [EF6 Documentation](https://learn.microsoft.com/en-us/ef/ef6/).  
-3. **AdminLTE 3** - [Official Documentation](https://adminlte.io/docs/3.0/).  
-4. **Bootstrap** - [Bootstrap 4.x Guide](https://getbootstrap.com/docs/4.0/getting-started/introduction/).
-
----
-<br>
 <p align="center">
   <a href="mailto:777eerol.exe@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/D14836" width="40" alt="Email">
