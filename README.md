@@ -1,11 +1,42 @@
 <h1 align="center">Library Management System: Enterprise Web Solution</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" />
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc">
+    <img src="https://img.shields.io/badge/.NET%20MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET MVC">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/ef/">
+    <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework">
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  </a>
+  <a href="https://adminlte.io/">
+    <img src="https://img.shields.io/badge/AdminLTE-3c8dbc?style=for-the-badge&logo=adminlte&logoColor=white" alt="AdminLTE">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://jquery.com/">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="MIT License">
+  </a>
 </p>
 
 <p align="center">
@@ -52,7 +83,7 @@ The system leverages the **Model-View-Controller (MVC)** architectural pattern t
 <h2 align="center">Project Structure</h2>
 
 ```
-LibraryManagementSystem/
+Project_LibraryManagementSystem/
 ├── Database/                                 # SQL Data persistence
 │   └── DBKUTUPHANE.bak                       # Full SQL Server Database backup
 ├── Project Documantation/                    # Scientific documentation
@@ -75,11 +106,11 @@ LibraryManagementSystem/
 
 <h2 align="center">Core Features</h2>
 
-- **Inventory Ecosystem**: Complete CRUD cycle for books, authors, and genres with real-time stock status.
-- **Borrowing System**: Automated tracking of lending dates, return deadlines, and status updates.
-- **Analytics Dashboard**: Visual summary of library performance, including most borrowed books and active users.
-- **User Roles**: Distinct portal experiences for Librarians (Full access) and Members (Search & Read-only profiling).
-- **Messaging System**: Intra-system communication between management and members.
+- 📚 **Inventory Ecosystem**: Complete CRUD cycle for books, authors, and genres with real-time stock status.
+- 💳 **Borrowing System**: Automated tracking of lending dates, return deadlines, and status updates.
+- 📊 **Analytics Dashboard**: Visual summary of library performance, including most borrowed books and active users.
+- 🔒 **User Roles**: Distinct portal experiences for Librarians (Full access) and Members (Search & Read-only profiling).
+- 💬 **Messaging System**: Intra-system communication between management and members.
 
 ---
 <br>
@@ -129,10 +160,8 @@ LibraryManagementSystem/
 
 ### 2. Repository Acquisition & Initialization
 ```bash
-git clone https://github.com/Zer0-Bug/LibraryManagementSystem.git
-```
-```bash
-cd LibraryManagementSystem
+git clone https://github.com/Zer0-Bug/Project_LibraryManagementSystem.git
+cd Project_LibraryManagementSystem
 ```
 
 ### 3. Database Restoration
@@ -181,6 +210,15 @@ To contribute, please follow the steps below:
 5. Open a Pull Request describing the changes made.
 <br>
 All contributions are reviewed before being merged. Please ensure that your changes follow the existing code style and include relevant documentation or tests where applicable.
+
+---
+<br>
+<h2 align="center">References</h2>
+
+1. **Microsoft Docs** - [ASP.NET MVC Overview](https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started).  
+2. **Entity Framework** - [EF6 Documentation](https://learn.microsoft.com/en-us/ef/ef6/).  
+3. **AdminLTE 3** - [Official Documentation](https://adminlte.io/docs/3.0/).  
+4. **Bootstrap** - [Bootstrap 4.x Guide](https://getbootstrap.com/docs/4.0/getting-started/introduction/).
 
 ---
 <br>
