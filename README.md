@@ -34,6 +34,9 @@
   <a href="https://jquery.com/">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
   </a>
+</p>
+
+<p align="center">
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
   </a>
