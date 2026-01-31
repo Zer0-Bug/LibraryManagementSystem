@@ -83,7 +83,7 @@ The system leverages the **Model-View-Controller (MVC)** architectural pattern t
 <h2 align="center">Project Structure</h2>
 
 ```
-Project_LibraryManagementSystem/
+LibraryManagementSystem/
 ├── Database/                                 # SQL Data persistence
 │   └── DBKUTUPHANE.bak                       # Full SQL Server Database backup
 ├── Project Documantation/                    # Scientific documentation
@@ -106,11 +106,11 @@ Project_LibraryManagementSystem/
 
 <h2 align="center">Core Features</h2>
 
-- 📚 **Inventory Ecosystem**: Complete CRUD cycle for books, authors, and genres with real-time stock status.
-- 💳 **Borrowing System**: Automated tracking of lending dates, return deadlines, and status updates.
-- 📊 **Analytics Dashboard**: Visual summary of library performance, including most borrowed books and active users.
-- 🔒 **User Roles**: Distinct portal experiences for Librarians (Full access) and Members (Search & Read-only profiling).
-- 💬 **Messaging System**: Intra-system communication between management and members.
+- **Inventory Ecosystem**: Complete CRUD cycle for books, authors, and genres with real-time stock status.
+- **Borrowing System**: Automated tracking of lending dates, return deadlines, and status updates.
+- **Analytics Dashboard**: Visual summary of library performance, including most borrowed books and active users.
+- **User Roles**: Distinct portal experiences for Librarians (Full access) and Members (Search & Read-only profiling).
+- **Messaging System**: Intra-system communication between management and members.
 
 ---
 <br>
@@ -160,8 +160,8 @@ Project_LibraryManagementSystem/
 
 ### 2. Repository Acquisition & Initialization
 ```bash
-git clone https://github.com/Zer0-Bug/Project_LibraryManagementSystem.git
-cd Project_LibraryManagementSystem
+git clone https://github.com/Zer0-Bug/LibraryManagementSystem.git
+cd LibraryManagementSystem
 ```
 
 ### 3. Database Restoration
