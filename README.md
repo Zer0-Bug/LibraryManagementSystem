@@ -75,11 +75,11 @@ Project_LibraryManagementSystem/
 
 <h2 align="center">Core Features</h2>
 
-- 📚 **Inventory Ecosystem**: Complete CRUD cycle for books, authors, and genres with real-time stock status.
-- 💳 **Borrowing System**: Automated tracking of lending dates, return deadlines, and status updates.
-- 📊 **Analytics Dashboard**: Visual summary of library performance, including most borrowed books and active users.
-- 🔒 **User Roles**: Distinct portal experiences for Librarians (Full access) and Members (Search & Read-only profiling).
-- 💬 **Messaging System**: Intra-system communication between management and members.
+- **Inventory Ecosystem**: Complete CRUD cycle for books, authors, and genres with real-time stock status.
+- **Borrowing System**: Automated tracking of lending dates, return deadlines, and status updates.
+- **Analytics Dashboard**: Visual summary of library performance, including most borrowed books and active users.
+- **User Roles**: Distinct portal experiences for Librarians (Full access) and Members (Search & Read-only profiling).
+- **Messaging System**: Intra-system communication between management and members.
 
 ---
 <br>
