@@ -130,6 +130,8 @@ LibraryManagementSystem/
 ### 2. Repository Acquisition & Initialization
 ```bash
 git clone https://github.com/Zer0-Bug/LibraryManagementSystem.git
+```
+```bash
 cd LibraryManagementSystem
 ```
 
