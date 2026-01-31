@@ -16,8 +16,8 @@
   <a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
+  <a href="https://adminlte.io/">
+    <img src="https://img.shields.io/badge/AdminLTE-3c8dbc?style=for-the-badge&logo=adminlte&logoColor=white" alt="AdminLTE">
   </a>
 </p>
 
@@ -34,8 +34,8 @@
   <a href="https://jquery.com/">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="MIT License">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
   </a>
 </p>
 
