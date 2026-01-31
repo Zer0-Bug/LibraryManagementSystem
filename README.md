@@ -16,8 +16,8 @@
   <a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
-  <a href="https://adminlte.io/">
-    <img src="https://img.shields.io/badge/AdminLTE-3c8dbc?style=for-the-badge&logo=adminlte&logoColor=white" alt="AdminLTE">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
   </a>
 </p>
 
